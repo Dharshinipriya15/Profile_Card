@@ -4,7 +4,7 @@ Features
 ✅ Profile image, name, and bio
 
 🛠 Installation & Setup
-1.Clone the Repository
-   - git clone https://github.com/Dharshinipriya15/profile-card.git
-   - cd profile-card
-2.Open index.html in a web browser.
+  - Clone the Repository
+    1.git clone https://github.com/Dharshinipriya15/profile-card.git
+    2.cd profile-card
+  - Open index.html in a web browser.
